@@ -1,0 +1,17 @@
+React is a javascript library 
+The main focus is to build UI as fast as possible 
+And React js is used to develop single page applications that means complete website in single page.
+
+Question1-> why react is fast.
+Ans-> React use virtual dom. for example virtual dom only update required things and real dom update 
+complete content.
+
+Question2-> why to learn react?
+Ans->1) Maintened by facebook so it will long term player in the market
+2) High demand due to fast speed.
+3) Large community for support 
+4) Mobile App development with React Native.
+
+Que-> what is component?
+Ans-> A piece of code that can be reused.
+such as function but it's more powerfull then function Header and footer are the best example.
