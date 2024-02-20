@@ -17,6 +17,13 @@ import CompDidMeth from './classComponent/CompDidMeth.jsx';
 import CompDidUpdate from './classComponent/CompDidUpdate.jsx';
 import CompWillUnMount from './classComponent/CompWillUnMount.jsx';
 import UseState from './Components/UseState.jsx';
+import UseEffectComp from './UseEffectComp/UseEffectComp.jsx';
+import UseEffect2 from './UseEffectComp/UseEffect2.jsx';
+import Bootstrap1 from './Bootstrap/Bootstrap1.jsx';
+import ArrayData from './Bootstrap/ArrayData.jsx';
+import PureComp from './classComponent/PureComp.jsx';
+import UseMemo from './Components/UseMemo.jsx';
+import UseRef from './Components/UseRef.jsx';
 
 function App() {
 
@@ -59,9 +66,18 @@ function App() {
      Hooks allow function components to have access to state and other React features. 
      Because of this, class components are generally no longer needed. 
      */}
-      <UseState/>
+      {/* <UseState/> */}
       
+      {/* <UseEffectComp/> */}
+       {/* <UseEffect2/> */}
+       {/* <Bootstrap1/> */}
 
+       {/* <ArrayData/> */}
+       {/* <PureComp/> */}
+
+       {/* <UseMemo/> */}
+
+       <UseRef/>
 
     </div>
   );
